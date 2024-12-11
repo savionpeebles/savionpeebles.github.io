@@ -1,0 +1,5 @@
+title: Savion's CS-499 E-Portfolio 
+description: This site has been created to show a road map of the journey it took for me to get my Computer Science degree 
+baseurl: "/savionpeebles.github.io" 
+url "https://github.com/savionpeebles/savionpeebles.github.io" 
+theme: jekyll-theme-tactile 
